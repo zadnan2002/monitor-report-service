@@ -33,8 +33,8 @@ These two methods together help provide a comprehensive view of anomalies—**su
    
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/real-time-anomaly-dashboard.git
-   cd real-time-anomaly-dashboard
+   git clone https://github.com/zadnan2002/monitor-report-service.git
+   cd monitor-report-service
    ```
 
 2. **Install Required Dependencies**
@@ -79,5 +79,5 @@ These two methods together help provide a comprehensive view of anomalies—**su
 
 ## Contact
 
-If you have questions or would like to contribute, please reach out via [your email or GitHub profile](https://github.com/yourusername).
+If you have questions or would like to contribute, please reach out!
 
